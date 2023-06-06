@@ -116,10 +116,10 @@ I speak Azerbaijani, Turkish, and English fluently.
 </div>
 
 ###
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=t4l3x&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=t4l3x&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=t4l3x&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 Some Certficates:
+<div align="left">
+  <img height="200" width="300" src="https://github.com/t4l3x/t4l3x/assets/7026743/47bb01ea-5e3b-4023-9374-d5959190de07"  />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=t4l3x&theme=radical&no-frame=false&no-bg=false&margin-w=4)
