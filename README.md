@@ -116,7 +116,7 @@ I speak Azerbaijani, Turkish, and English fluently.
 </div>
 
 ###
-# 📊 Some Certficates:
+# 📊 Some Certificates:
 <div align="left">
   <img height="200" width="300" src="https://github.com/t4l3x/t4l3x/assets/7026743/47bb01ea-5e3b-4023-9374-d5959190de07"  />
 </div>
