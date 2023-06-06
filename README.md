@@ -1,8 +1,7 @@
-## About Me
+# About Me
 <div align="left">
-  <img height="400" src="https://media.giphy.com/media/VPpkvgTIJ817dfQOXI/giphy.gif"  />
+  <img height="200" width="1000" src="https://media.giphy.com/media/VPpkvgTIJ817dfQOXI/giphy.gif"  />
 </div>
-
 ###
 Hello there! 👋 I'm Taleh Aghazada, a seasoned Full Stack Developer from the beautiful city of Baku, Azerbaijan. I enjoy building innovative solutions using a wide range of technologies and have an unyielding passion for software architecture, cloud technologies, and automation.
 
