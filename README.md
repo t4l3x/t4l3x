@@ -32,7 +32,8 @@ Feel free to reach out for collaborations, or if you just want to have a chat ab
 
 ---
 
-_"Programming is not about typing, it's about thinking."_ - Rich Hickey
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
@@ -53,9 +54,6 @@ I speak Azerbaijani, Turkish, and English fluently.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=t4l3x&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=t4l3x&icon=0&color=2)](https://visitcount.itsvg.in)
