@@ -12,7 +12,7 @@ Feel free to reach out for collaborations, or if you just want to have a chat ab
 
 📧 talehaghazadeh@gmail.com  
 📞 +994503847748  
-🌍 [GitHub](https://github.com/t4l3x) | [HackerRank](https://www.hackerrank.com/t4l3x) | [LinkedIn](https://www.linkedin.com/in/t4l3x)
+🌍 [GitHub](https://github.com/t4l3x) | [HackerRank](https://www.hackerrank.com/t4l3x) | [LinkedIn](https://www.linkedin.com/in/talehaghazada)
 
 ---
 
